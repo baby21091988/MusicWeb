@@ -1,1 +1,1 @@
-https://creatures-candle-walter-commodities.trycloudflare.com
+https://api.trycloudflare.com
